@@ -1,6 +1,6 @@
 # React JS Notes
 
-Content
+## **Content**
 
 ### 🟢 **Beginner Level**
 
